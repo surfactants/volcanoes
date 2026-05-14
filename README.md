@@ -45,6 +45,8 @@ this one is interesting and could serve as the basis for a system based on magma
 
 these features could then appear as either molten or cooled. (closer to surface = higher chance of being cooled? or should it be a whole cooled system, though with the chamber's world height still influencing it heavily)
 
+there are potential compositional ramifications here - obviously a cooled body would be the same as its parent rock, unless it's a mantle-borne xenolith? it could be interesting for exposed plutons, but it would be silly to generate a granite dike in a granite body.
+
 - dikes
 - sills
 - necks
