@@ -63,3 +63,4 @@ seems necessary
 - i havent found travertine yet, if that doesnt form terraces already investigate that too, but as a separate mod
 - is columnar jointing possible to adequately represent in a voxl game? microblocks are nice but not so good for angles, and it seems awfully inefficient for a static generated feature)
 - split/copy this into a discrete design doc
+- geology additions as a potential dependency for rock types, or at least a compatibility patch
